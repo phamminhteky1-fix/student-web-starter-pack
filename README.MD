@@ -12,3 +12,7 @@ This is a small project by me to show the examples to use HTML for my friends
 2. Unzip the zip file then modify either index.html or styles.css file as you like
 3. Plubish your project using any hosting service you like. In some cases, you have to re-zip the file pack.
 4. Done!
+### This project is plubic domain
+This project is uncoppyrighted, no rights reserved . So feel free to remix your project whatever you want!
+
+Attribution is not requied but you will be highly appreciated when attribute the creator.
